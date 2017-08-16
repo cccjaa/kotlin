@@ -1,3 +1,2 @@
 # kotlin
-kotlin demo
-# function sample
+初始化 kotlin demo
